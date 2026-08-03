@@ -162,7 +162,7 @@ When it fails to distinguish objective change from subjective observation, it ab
 
 The cumulative effect is that modern physics and philosophy have, for centuries, been describing *our measurement of time* rather than *time itself*. We have become experts in clock-reading and amateurs in ontology.
 
-This is not a failure of physics as a predictive science — it performs remarkably well. It is a failure of *understanding*. We can predict time with extraordinary precision, yet we cannot say what it is. This is the scandal of time philosophy.
+This is not a failure of physics as a predictive science — it performs remarkably well. It is a failure of *understanding*. We can predict time with extraordinary precision, yet we cannot say what it is. 
 
 ---
 
