@@ -156,7 +156,7 @@ Lorsqu'elle ne parvient pas à distinguer le changement objectif de l'observatio
 
 L'effet cumulatif est que la physique et la philosophie modernes décrivent, depuis des siècles, *notre mesure du temps* plutôt que *le temps lui-même*. Nous sommes devenus des experts en lecture d'horloges et des amateurs en ontologie.
 
-Ce n'est pas un échec de la physique en tant que science prédictive — elle fonctionne remarquablement bien. C'est un échec de la *compréhension*. Nous pouvons prédire le temps avec une précision extraordinaire, mais nous ne pouvons pas dire ce qu'il est. C'est le scandale de la philosophie du temps.
+Ce n'est pas un échec de la physique en tant que science prédictive — elle fonctionne remarquablement bien. C'est un échec de la *compréhension*. Nous pouvons prédire le temps avec une précision extraordinaire, mais nous ne pouvons pas dire ce qu'il est. 
 
 ---
 
