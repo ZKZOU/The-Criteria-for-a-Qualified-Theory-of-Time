@@ -156,7 +156,7 @@ Cuando no logra distinguir el cambio objetivo de la observación subjetiva, aban
 
 El efecto acumulativo es que la física y la filosofía modernas han estado describiendo, durante siglos, *nuestra medición del tiempo* en lugar de *el tiempo mismo*. Nos hemos convertido en expertos en lectura de relojes y en aficionados en ontología.
 
-Esto no es un fracaso de la física como ciencia predictiva — funciona notablemente bien. Es un fracaso de la *comprensión*. Podemos predecir el tiempo con extraordinaria precisión, pero no podemos decir qué es. Este es el escándalo de la filosofía del tiempo.
+Esto no es un fracaso de la física como ciencia predictiva — funciona notablemente bien. Es un fracaso de la *comprensión*. Podemos predecir el tiempo con extraordinaria precisión, pero no podemos decir qué es. 
 
 ---
 
