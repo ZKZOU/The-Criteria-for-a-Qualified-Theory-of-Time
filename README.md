@@ -11,6 +11,8 @@ Email: zhiyan.zou@foxmail.com
 Wuhan, China
 
 [Zou, Z. K. (2025). The Thermodynamic Nature of Time, The Geometric Essence of Gravity-Mass, The Quantum Chirality of Space, The Non-Statistical Formula of Entropy, The Dynamical Rules of Causality. *Zenodo*. https://doi.org/10.5281/zenodo.14788393]
+
+[Zou, Z. K. (2026). Time Definition in Ontology: The Sequence of Snapshots of Spatial Energy Distribution. Zenodo. https://doi.org/10.5281/zenodo.21577553]
 ---
 
 ## Abstract
