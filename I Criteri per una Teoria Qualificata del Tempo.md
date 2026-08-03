@@ -157,7 +157,7 @@ Quando non riesce a distinguere il cambiamento oggettivo dall'osservazione sogge
 
 L'effetto cumulativo è che la fisica e la filosofia moderne hanno descritto, per secoli, *la nostra misurazione del tempo* piuttosto che *il tempo stesso*. Siamo diventati esperti nella lettura degli orologi e dilettanti in ontologia.
 
-Questo non è un fallimento della fisica come scienza predittiva — funziona notevolmente bene. È un fallimento della *comprensione*. Possiamo prevedere il tempo con straordinaria precisione, ma non possiamo dire cosa sia. Questo è lo scandalo della filosofia del tempo.
+Questo non è un fallimento della fisica come scienza predittiva — funziona notevolmente bene. È un fallimento della *comprensione*. Possiamo prevedere il tempo con straordinaria precisione, ma non possiamo dire cosa sia. 
 
 ---
 
